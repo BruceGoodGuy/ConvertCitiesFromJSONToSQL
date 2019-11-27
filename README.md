@@ -7,7 +7,7 @@ ____________________
 2. Go to folder of project
 3. Run `npm install` to install all dependencies
 4. Run `node app` or `npm start` to start
-5. Results will be presented in the directory ./OutputFile/FILE xxxxxx
+5. Results will be presented in the directory `./OutputFile/FILE xxxxxx`
 
 ____________________
 #By default,
